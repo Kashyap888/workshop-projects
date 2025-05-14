@@ -1,2 +1,2 @@
 # workshop-projects
-# I learnt these Concepts in a 5 day workshop conducted in our collage
+# I completed 3 simple projects in a 5 day workshop
